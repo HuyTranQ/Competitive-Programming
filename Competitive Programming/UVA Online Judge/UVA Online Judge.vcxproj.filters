@@ -322,6 +322,12 @@
       <Filter>Source Files\Accepted</Filter>
     </ClCompile>
     <ClCompile Include="00416.cpp">
+      <Filter>Source Files\Tried</Filter>
+    </ClCompile>
+    <ClCompile Include="11235.cpp">
+      <Filter>Source Files\Accepted</Filter>
+    </ClCompile>
+    <ClCompile Include="11402.cpp">
       <Filter>Source Files\Solving</Filter>
     </ClCompile>
   </ItemGroup>

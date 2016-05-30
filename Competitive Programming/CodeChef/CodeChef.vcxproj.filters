@@ -14,37 +14,14 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="Source Files\Accepted">
-      <UniqueIdentifier>{e94af905-8f68-4f0a-88e0-f23b18605fbd}</UniqueIdentifier>
+      <UniqueIdentifier>{ec154fbe-cb43-468e-999c-5a655479dc81}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\Solving">
-      <UniqueIdentifier>{285bdf2b-7e17-44e0-8e93-6e2ed93a4f5a}</UniqueIdentifier>
+      <UniqueIdentifier>{4ba5cb66-33d4-49c8-9296-cab3cf85f611}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\Tried">
-      <UniqueIdentifier>{a3a277ef-817e-4380-9435-25ac0ce342c4}</UniqueIdentifier>
+      <UniqueIdentifier>{48a421fe-55f6-45ad-aef0-3cc16458e020}</UniqueIdentifier>
     </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="1A.cpp">
-      <Filter>Source Files\Accepted</Filter>
-    </ClCompile>
-    <ClCompile Include="71A.cpp">
-      <Filter>Source Files\Accepted</Filter>
-    </ClCompile>
-    <ClCompile Include="158A.cpp">
-      <Filter>Source Files\Accepted</Filter>
-    </ClCompile>
-    <ClCompile Include="118A.cpp">
-      <Filter>Source Files\Accepted</Filter>
-    </ClCompile>
-    <ClCompile Include="50A.cpp">
-      <Filter>Source Files\Accepted</Filter>
-    </ClCompile>
-    <ClCompile Include="231A.cpp">
-      <Filter>Source Files\Accepted</Filter>
-    </ClCompile>
-    <ClCompile Include="282A.cpp">
-      <Filter>Source Files\Solving</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -53,5 +30,13 @@
     <Text Include="output.txt">
       <Filter>Resource Files</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TEST.cpp">
+      <Filter>Source Files\Accepted</Filter>
+    </ClCompile>
+    <ClCompile Include="HS08TEST.cpp">
+      <Filter>Source Files\Solving</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
